@@ -13,7 +13,7 @@ setup(
     version='0.0.1',
     description="Modules for working with Gemini's API in a pythonic way",
     long_description="",
-    url='',
+    url='https://github.com/LukeLT255/gemini',
     author='Luke Tyson',
     author_email='LukeLT25@gmail.com',
     license='MIT',
